@@ -1,3 +1,5 @@
+# DO NOT RUN THIS
+# At 1 million iterations a second, this could take 120 days to complete
 from datetime import datetime
 startTime = datetime.now()
 print("Start Time: " + str(startTime))
